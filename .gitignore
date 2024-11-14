@@ -1,0 +1,9 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos específicos de Visual Studio Cole
+.vscode/
+
+# Archivos de sistema de otros editores
+*.log
