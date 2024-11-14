@@ -14,4 +14,9 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: purple;
     font-size: medium;
+    border-color: black;
+}
+
+ul {
+    list-style-type: none;
 }
