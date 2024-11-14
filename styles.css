@@ -8,6 +8,7 @@ h1 {
     color: red;
     font-size: 200%;
     text-align: center;
+    border: thin solid black;
 }
 
 h2 {
